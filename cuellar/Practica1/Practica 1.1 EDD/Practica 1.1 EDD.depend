@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1665204970 source:d:\22b cucei\edd2\practica 1.1 edd\listamenu.cpp
+	"ListaMenu.h"
+
+1665204952 d:\22b cucei\edd2\practica 1.1 edd\listamenu.h
+	"NodoMenu.h"
+	"NodoIndice.h"
+	<fstream>
+
+1665204798 d:\22b cucei\edd2\practica 1.1 edd\nodomenu.h
+	"Producto.h"
+
+1665204766 d:\22b cucei\edd2\practica 1.1 edd\producto.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<algorithm>
+
+1665204916 d:\22b cucei\edd2\practica 1.1 edd\nodoindice.h
+	<iostream>
+	"NodoMenu.h"
+
+1665204402 source:d:\22b cucei\edd2\practica 1.1 edd\main.cpp
+	<iostream>
+	"ListaMenu.h"
+
+1665204928 source:d:\22b cucei\edd2\practica 1.1 edd\nodoindice.cpp
+	"NodoIndice.h"
+
+1665204808 source:d:\22b cucei\edd2\practica 1.1 edd\nodomenu.cpp
+	"NodoMenu.h"
+
+1665204778 source:d:\22b cucei\edd2\practica 1.1 edd\producto.cpp
+	"Producto.h"
+
+1665806986 source:e:\22b cucei\edd2\practica 1.1 edd\listamenu.cpp
+	"ListaMenu.h"
+
+1665807008 e:\22b cucei\edd2\practica 1.1 edd\listamenu.h
+	"NodoMenu.h"
+	"NodoIndice.h"
+	<fstream>
+
+1665802930 e:\22b cucei\edd2\practica 1.1 edd\nodomenu.h
+	"Producto.h"
+
+1665801484 e:\22b cucei\edd2\practica 1.1 edd\producto.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<algorithm>
+
+1665802846 e:\22b cucei\edd2\practica 1.1 edd\nodoindice.h
+	<iostream>
+	"NodoMenu.h"
+
+1665804032 source:e:\22b cucei\edd2\practica 1.1 edd\main.cpp
+	<iostream>
+	"ListaMenu.h"
+
+1665802882 source:e:\22b cucei\edd2\practica 1.1 edd\nodoindice.cpp
+	"NodoIndice.h"
+
+1665802918 source:e:\22b cucei\edd2\practica 1.1 edd\nodomenu.cpp
+	"NodoMenu.h"
+
+1665204778 source:e:\22b cucei\edd2\practica 1.1 edd\producto.cpp
+	"Producto.h"
+
+1665810586 source:d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\listamenu.cpp
+	"ListaMenu.h"
+
+1665810608 d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\listamenu.h
+	"NodoMenu.h"
+	"NodoIndice.h"
+	<fstream>
+
+1665806530 d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\nodomenu.h
+	"Producto.h"
+
+1665805084 d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\producto.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<algorithm>
+
+1665806446 d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\nodoindice.h
+	<iostream>
+	"NodoMenu.h"
+
+1665810798 source:d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\main.cpp
+	<iostream>
+	"ListaMenu.h"
+
+1665806482 source:d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\nodoindice.cpp
+	"NodoIndice.h"
+
+1665806518 source:d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\nodomenu.cpp
+	"NodoMenu.h"
+
+1665208378 source:d:\ingenieria_sof\cuellar\practica1\practica 1.1 edd\producto.cpp
+	"Producto.h"
+

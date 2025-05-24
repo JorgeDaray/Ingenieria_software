@@ -1,0 +1,387 @@
+<mxfile host="Electron" modified="2023-05-05T06:50:59.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="ordnC1uHo_tio8J0aESe" version="21.1.2" type="device">
+  <diagram name="Página-1" id="ukXKIA2ErYKgg7vj2fmc">
+    <mxGraphModel dx="1224" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-11" value="Clase proveedor&amp;nbsp;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-11">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-16" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-15">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-17" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-15">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-11">
+          <mxGeometry y="50" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-22" value="Encargado de proveer cualquier producto que necesite el personal del zoologico.&lt;br&gt;Facilitar la obtencion del contacto de este.&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-21">
+          <mxGeometry width="140" height="100" as="geometry">
+            <mxRectangle width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-23" value="Compra.&lt;br&gt;Producto.&lt;br&gt;Empleado." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-21">
+          <mxGeometry x="140" width="160" height="100" as="geometry">
+            <mxRectangle width="160" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-24" value="Clase Compra&amp;nbsp;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-24">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-26" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-25">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-27" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-25">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-24">
+          <mxGeometry y="50" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-29" value="Encargado de almacenar la fecha es estatus del producto (en proceso, en local etc.), ademas de informaion del proveedor al que se le adquirieron los productos.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-28">
+          <mxGeometry width="140" height="110" as="geometry">
+            <mxRectangle width="140" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-30" value="Proveedor.&lt;br&gt;Detalle_Compra." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-28">
+          <mxGeometry x="140" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-31" value="Clase Detalle_compra&amp;nbsp;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-31">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-33" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-32">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-34" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-32">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-31">
+          <mxGeometry y="50" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-36" value="Encargado de almacenar todo lo relacionado con la compra al proveedor incluyendo los productos adquiridos, la cantidad de estos y el precio al que fueron adquiridos.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-35">
+          <mxGeometry width="140" height="110" as="geometry">
+            <mxRectangle width="140" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-37" value="Compra.&lt;br&gt;Producto." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-35">
+          <mxGeometry x="140" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-38" value="Clase Producto&amp;nbsp;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-38">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-40" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-39">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-41" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-39">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-38">
+          <mxGeometry y="50" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-43" value="Encargado de almacenar los porductos (el nombre, descripcion, precio, categoria, stock_disponible, el stock_maximo, limite que puede tener un local, mostrar una imagen de este y su estatus ya sea disponible o no disponible).&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-42">
+          <mxGeometry width="140" height="170" as="geometry">
+            <mxRectangle width="140" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-44" value="Detalle_compra.&lt;br&gt;Detalle_venta.&lt;br&gt;Detalle_devolucion.&lt;br&gt;Detalle_producto.&lt;br&gt;Local_pedido.&lt;br&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-42">
+          <mxGeometry x="140" width="160" height="170" as="geometry">
+            <mxRectangle width="160" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-45" value="Clase Detalle_venta&amp;nbsp;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="540" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-46" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-45">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-47" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-46">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-48" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-46">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-45">
+          <mxGeometry y="50" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-50" value="Encargado de almacenar el producto vendido, la cantidad vendida de este, y al precio que se concreto la venta de manera unitaria en ese momento.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-49">
+          <mxGeometry width="140" height="110" as="geometry">
+            <mxRectangle width="140" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-51" value="Venta.&lt;br&gt;Producto." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-49">
+          <mxGeometry x="140" width="160" height="110" as="geometry">
+            <mxRectangle width="160" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-52" value="Clase Empleado" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-52">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-54" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-53">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-55" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-53">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-52">
+          <mxGeometry y="50" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-57" value="Encargado de almacenar el nombre, su curp apellidos, domicilio, NSS, Puesto, cv, Estatus, administar ventas, modificaciones, y compras a proveedores.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-56">
+          <mxGeometry width="140" height="120" as="geometry">
+            <mxRectangle width="140" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-58" value="Venta.&lt;br&gt;PEDIDO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-56">
+          <mxGeometry x="140" width="160" height="120" as="geometry">
+            <mxRectangle width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-59" value="Clase Venta" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="710" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-59">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-61" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-60">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-62" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-60">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-59">
+          <mxGeometry y="50" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-64" value="Encargado de almacenar la infromacion del empleado que realizo la venta, en que fecha se realizo, y calcular el total de esta.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-63">
+          <mxGeometry width="140" height="90" as="geometry">
+            <mxRectangle width="140" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-65" value="Detalle_venta.&lt;br&gt;Empleado." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-63">
+          <mxGeometry x="140" width="160" height="90" as="geometry">
+            <mxRectangle width="160" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-66" value="Clase Pedido" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="980" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-66">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-68" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-67">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-69" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-67">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-66">
+          <mxGeometry y="50" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-71" value="Encargado de almacenar al empleado que realizo el pedido, nombre del local o como se ubique, fecha del pedido y estatus de este.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-70">
+          <mxGeometry width="140" height="100" as="geometry">
+            <mxRectangle width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-72" value="Detalle_pedido.&lt;br&gt;Empleado.&lt;br&gt;Local." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-70">
+          <mxGeometry x="140" width="160" height="100" as="geometry">
+            <mxRectangle width="160" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-73" value="Clase Local" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="860" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-73">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-75" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-74">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-76" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-74">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-77" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-73">
+          <mxGeometry y="50" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-78" value="Encargado de almacenar la ubicacion del local, el tipo de local que es(alimentos, productos etc.), horario de operacion de estos, su estatus y mirar la cantidad de producto que queda en el local.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-77">
+          <mxGeometry width="140" height="140" as="geometry">
+            <mxRectangle width="140" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-79" value="Pedido.&lt;br&gt;Local_producto.&lt;br&gt;Producto.&lt;br&gt;Empleado." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-77">
+          <mxGeometry x="140" width="160" height="140" as="geometry">
+            <mxRectangle width="160" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-80" value="Clase Detalle_devolucion" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1140" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-80">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-82" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-81">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-83" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-81">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-80">
+          <mxGeometry y="50" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-85" value="Encargado de almacenar la devolucion, los productos, la cantidad y el motivo de porque son devueltos.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-84">
+          <mxGeometry width="140" height="80" as="geometry">
+            <mxRectangle width="140" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-86" value="Producto.&lt;br&gt;Devolucion." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-84">
+          <mxGeometry x="140" width="160" height="80" as="geometry">
+            <mxRectangle width="160" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-87" value="Clase Devolucion" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1060" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-88" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-87">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-89" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-88">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-90" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-88">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-87">
+          <mxGeometry y="50" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-92" value="Encargado de almacenar la venta y la fecha de una devolcuion.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-91">
+          <mxGeometry width="140" height="60" as="geometry">
+            <mxRectangle width="140" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-93" value="Detalle_devolucion.&lt;br&gt;Venta." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-91">
+          <mxGeometry x="140" width="160" height="60" as="geometry">
+            <mxRectangle width="160" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-94" value="Clase Detalle_pedido" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1180" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-94">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-96" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-95">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-97" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-95">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-98" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-94">
+          <mxGeometry y="50" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-99" value="Encargado de almacenar el pedido, los productos y la cantidad del pedido.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-98">
+          <mxGeometry width="140" height="60" as="geometry">
+            <mxRectangle width="140" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-100" value="Pedido.&lt;br&gt;Producto." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-98">
+          <mxGeometry x="140" width="160" height="60" as="geometry">
+            <mxRectangle width="160" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-101" value="Clase Local_producto" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-102" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-101">
+          <mxGeometry y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-103" value="Responsabilidades" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-102">
+          <mxGeometry width="140" height="20" as="geometry">
+            <mxRectangle width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-104" value="Colaboradores" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-102">
+          <mxGeometry x="140" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-105" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-101">
+          <mxGeometry y="50" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-106" value="Encargado de almacenar el local, los productos, y las existencias de estos productos en el local.&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-105">
+          <mxGeometry width="140" height="70" as="geometry">
+            <mxRectangle width="140" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vmv84wzbJbPrYH8SWS2w-107" value="Local.&lt;br&gt;Producto." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="Vmv84wzbJbPrYH8SWS2w-105">
+          <mxGeometry x="140" width="160" height="70" as="geometry">
+            <mxRectangle width="160" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

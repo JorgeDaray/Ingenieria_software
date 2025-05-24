@@ -1,0 +1,11 @@
+10EHOL   |0    
+10PIADI  |0    
+22AQUE   |0    
+20CBUE   |1    
+10IADI   |0    
+10NBIE   |1    
+22DAKS   |0    
+10DDFG   |1    
+22DSDF   |0    
+12FFGD   |0    
+22DSDF   |1    
